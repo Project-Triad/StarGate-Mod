@@ -1,0 +1,10 @@
+package cz.projectTriad.stargate;
+
+@Mod(modid = PTSG.MODID, name = PTSG.MODNAME, version = PTSG.VERSION)
+public class PTSG {
+	
+	public static final MODID = "ProjT_SGC";
+	public static final MODNAME = "ProjectTriad - StarGateCore";
+	public static final VERSION = "0.0.1";
+
+}
